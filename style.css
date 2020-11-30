@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+#topHead {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    
+}
